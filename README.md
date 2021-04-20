@@ -1,12 +1,11 @@
 # Jupiter-HW
-libraries required
+libraries required:
 
-matplotlib
-numpy
-sklearn
-pandas
-tensorflow
-Optionally, you can use the seaborn visualization package.
+- matplotlib
+- numpy
+- sklearn
+- pandas
+- tensorflow
 
 
 
